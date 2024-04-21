@@ -16,7 +16,7 @@
 - [ ] Proxy
 
 ### Behavioral Design Patterns
-- [ ] Chain of Responsibility
+- [x] Chain of Responsibility
 - [ ] Command
 - [ ] Interpreter
 - [ ] Iterator
